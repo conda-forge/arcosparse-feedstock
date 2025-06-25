@@ -1,5 +1,5 @@
 {% set name = "arcosparse" %}
-{% set version = "0.4.1" %}
+{% set version = "0.4.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/arcosparse-{{ version }}.tar.gz
-  sha256: 03fe565a1423f431db5c53ffa319b877e1422b0e713722f1b66088514dde2b2c
+  sha256: 67c356f9db02dee5e4d74d64afcb73b208c0a056f828d746931c85909e548450
 
 build:
   noarch: python
