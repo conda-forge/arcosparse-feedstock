@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/arcosparse-feed
 
 Home: https://pypi.org/project/arcosparse/
 
-Package license: AGPL-3.0-only
+Package license: EUPL-1.2
 
 Summary: Helper to download and subset sparse data that has been Arcoified and are available through STAC and sqlite formated data
 
